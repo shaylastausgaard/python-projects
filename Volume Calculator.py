@@ -1,6 +1,4 @@
 #Shayla Stausgaard
-#250850256
-#CS1026 Assignment 2
 
 #create empty lists to store values in
 cube = []
