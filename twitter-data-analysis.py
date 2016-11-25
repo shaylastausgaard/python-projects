@@ -1,6 +1,5 @@
 '''
 Shayla Stausgaard
-250850256
 OBJECTIVE: The objective is to determine which timezone (Eastern, Central, Mountain, Pacific; is the “happiest”.
 
 '''
